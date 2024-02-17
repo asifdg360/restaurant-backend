@@ -15,7 +15,7 @@ spring:
 rms:
   jwt:
     secret: RestaurantBackendServicesApiSystemSecRetKeyValue
-    validation-time: 600000
+    validation-time: 6000000
     refresh-time: 86400000
 
   openapi:
